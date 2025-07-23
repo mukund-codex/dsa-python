@@ -1,4 +1,4 @@
-arr1 = ['a', 'b ', 'c ', 'x']
+arr1 = ['a', 'b', 'c', 'x']
 arr2 = ['z', 'y', 'a']
 
 def containsCommonItem2(arr1, arr2):
